@@ -108,3 +108,10 @@ button#back:hover {
     background-color: #5a6268;
     transform: translateY(-3px);
 }
+
+.catalog-item img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
